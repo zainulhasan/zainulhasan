@@ -5,6 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainulhasan" alt="zainulhasan" /></a> </p>
 
+- 🌱 I’m currently learning **Blackchain**
+
+- 👨‍💻 All of my projects are available at [https://zainulhasan.github.io/](https://zainulhasan.github.io/)
+
+- 📫 How to reach me **hassan9224@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/14Elt9hLoIZtoCQ0zI7HzOfYt6KcTf3Fl/view?usp=sharing](https://drive.google.com/file/d/14Elt9hLoIZtoCQ0zI7HzOfYt6KcTf3Fl/view?usp=sharing)
+
+- ⚡ Fun fact **Javascript makes me excited.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zainulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="zainulhasan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainulhasan" alt="zainulhasan" /></a> </p>
+
 <p align="left">
 <a href="https://twitter.com/hassan9224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassan9224" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/syed-zain-ul-hasan-9575b4ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-zain-ul-hasan-9575b4ba/" height="30" width="40" /></a>
