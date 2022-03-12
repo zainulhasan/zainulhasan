@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hassan9224@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14Elt9hLoIZtoCQ0zI7HzOfYt6KcTf3Fl/view?usp=sharing](https://drive.google.com/file/d/14Elt9hLoIZtoCQ0zI7HzOfYt6KcTf3Fl/view?usp=sharing)
+- 📄 Know about my experiences [shorturl.at/jovwV](shorturl.at/jovwV)
 
 - ⚡ Fun fact **Javascript makes me excited.**
 
